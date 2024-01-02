@@ -1,0 +1,6 @@
+res://Scenes/World/main_test.tscn
+res://Scenes/Objects/GridMap.tres
+res://Scenes/Player/player.tscn
+res://Scenes/Enemys/enemy_laser.tscn
+res://Scenes/Objects/GridMap.tscn
+res://Scripts/player.gd

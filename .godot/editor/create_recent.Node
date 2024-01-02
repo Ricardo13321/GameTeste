@@ -1,0 +1,12 @@
+OmniLight3D
+MeshInstance3D
+CollisionShape3D
+StaticBody3D
+Sprite3D
+Node3D
+RayCast3D
+GridMap
+Camera3D
+CollisionPolygon3D
+CharacterBody3D
+Node
